@@ -1,0 +1,13 @@
+.clock-continer{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #282828;
+}
+.digital-clock{
+    color:cyan ;
+    font-size: 144px;
+    font-weight: 300;
+
+}
